@@ -1,0 +1,27 @@
+body{
+    font-family: monospace;
+    background-color: black;
+    background-image: url('../image/fundo.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100vh;
+    min-height: 400px;
+}
+.container{
+    text-align: center;
+    padding: 20px;
+    height: 200vh;
+}
+.titulo{
+    margin: 0 0 5px 5px;
+    color:#ffff ;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.subtitulo{
+    color: #ffff ;
+    font-size: 20px;
+}
+.resultados{
+    color: white;
+}
